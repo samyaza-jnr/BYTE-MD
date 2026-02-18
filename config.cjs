@@ -7,7 +7,7 @@ module.exports = {
   "PREFIX": process.env.PREFIX || ".",
   "AUTO_READ_STATUS": process.env.AUTO_READ_STATUS === 'true',
   "MODE": process.env.MODE || "public",
-  "OWNER_NUMBER": process.env.OWNER_NUMBER || "923072380380",
+  "OWNER_NUMBER": process.env.OWNER_NUMBER || "254715182153",
   "OWNER_NAME": process.env.OWNER_NAME || "Samyaza",
   "ALWAYS_ONLINE": process.env.ALWAYS_ONLINE === 'true',
   "PRESENCE": process.env.PRESENCE || "online",
